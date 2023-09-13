@@ -1,0 +1,15 @@
+1595 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+9363 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProvider
+13698 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProvider
+13698 [main] INFO  demo.web.TestBase -- Stop test
+13698 [main] ERROR demo.web.TestBase -- **********************************************
+13709 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProvider
+17328 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProvider
+17329 [main] INFO  demo.web.TestBase -- Stop test
+17330 [main] ERROR demo.web.TestBase -- **********************************************
+17336 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProvider
+20653 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProvider
+20654 [main] INFO  demo.web.TestBase -- Stop test
+20655 [main] ERROR demo.web.TestBase -- **********************************************

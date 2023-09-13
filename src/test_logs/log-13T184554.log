@@ -1,0 +1,23 @@
+1502 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+7416 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV
+11563 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+11565 [main] INFO  demo.web.TestBase -- Stop test
+11566 [main] ERROR demo.web.TestBase -- **********************************************
+11571 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV
+14700 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+14700 [main] INFO  demo.web.TestBase -- Stop test
+14701 [main] ERROR demo.web.TestBase -- **********************************************
+14704 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV
+18210 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+18211 [main] INFO  demo.web.TestBase -- Stop test
+18211 [main] ERROR demo.web.TestBase -- **********************************************
+18215 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV
+21450 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+21450 [main] INFO  demo.web.TestBase -- Stop test
+21450 [main] ERROR demo.web.TestBase -- **********************************************
+21455 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV
+25240 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+25240 [main] INFO  demo.web.TestBase -- Stop test
+25240 [main] ERROR demo.web.TestBase -- **********************************************

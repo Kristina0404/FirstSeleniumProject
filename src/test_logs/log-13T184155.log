@@ -1,0 +1,12 @@
+1743 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+7568 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV
+11542 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+11542 [main] INFO  demo.web.TestBase -- Stop test
+11542 [main] ERROR demo.web.TestBase -- **********************************************
+11545 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV
+64382 [main] ERROR demo.web.TestBase -- FAILED: addUserPositiveTesFromDateProviderWithCSVScreenshot: C:\QA-Projects\FirstSeleniumProject\screenshots\screen1694623379.png
+64382 [main] INFO  demo.web.TestBase -- Stop test
+64383 [main] ERROR demo.web.TestBase -- **********************************************
+64385 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV

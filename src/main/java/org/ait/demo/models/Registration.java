@@ -41,4 +41,12 @@ public class Registration {
     public String getPassword() {
         return password;
     }
+
+    @Override
+    public String toString() {
+        return "Registration{" +
+                "name='" + name + '\'' +
+                ", surname='" + surname + '\'' +
+                '}';
+    }
 }
