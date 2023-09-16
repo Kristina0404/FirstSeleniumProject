@@ -42,7 +42,7 @@ public class UserHelper extends HelperBase {
     }
 
     public boolean isLoginLinkPresent() {
-        return isElementPresent(By.xpath("//a[text()='Log in']"));
+        return isElementPresent(By.xpath("//a[contains(text(),'Log in')]"));
     }
 
     public void clickOnLogInButton() {
