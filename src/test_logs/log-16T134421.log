@@ -1,0 +1,6 @@
+6946 [Test worker] INFO  demo.web.TestBase -- Start test addProductInCartTest with data: []
+11100 [Test worker] INFO  demo.web.TestBase -- PASSED: addProductInCartTest
+11100 [Test worker] INFO  demo.web.TestBase -- Stop test
+11100 [Test worker] ERROR demo.web.TestBase -- **********************************************
+11115 [Test worker] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProvider with data: [Christel21, Hacker, hacker21@gmail.com, Hacker123$]
+12388 [Test worker] INFO  demo.web.TestBase -- Start test isHomeComponentPresentTest with data: []
