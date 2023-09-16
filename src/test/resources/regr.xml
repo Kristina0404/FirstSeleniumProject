@@ -7,10 +7,10 @@
             <class name="demo.web.LoginTests" >
                 <methods>
                     <exclude name=".*Negative.*"/>
+                    <exclude name=".*Screencast.*"/>
                 </methods>
             </class>
             <class name="demo.web.AddProductTests" />
-
         </classes>
     </test>
 </suite>

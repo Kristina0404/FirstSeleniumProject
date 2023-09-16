@@ -1,0 +1,16 @@
+2020 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+10696 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV with data: [Registration{name='Ute', surname='Unger'}]
+64070 [main] ERROR demo.web.TestBase -- FAILED: addUserPositiveTesFromDateProviderWithCSVScreenshot: C:\QA-Projects\FirstSeleniumProject\screenshots\screen1694856397.png
+64071 [main] INFO  demo.web.TestBase -- Stop test
+64071 [main] ERROR demo.web.TestBase -- **********************************************
+64073 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV with data: [Registration{name='Claudia', surname='Unger'}]
+118118 [main] ERROR demo.web.TestBase -- FAILED: addUserPositiveTesFromDateProviderWithCSVScreenshot: C:\QA-Projects\FirstSeleniumProject\screenshots\screen1694856451.png
+118118 [main] INFO  demo.web.TestBase -- Stop test
+118118 [main] ERROR demo.web.TestBase -- **********************************************
+118126 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV with data: [Registration{name='Claudiaaaaaaaaaaaaa', surname='Unger'}]
+171482 [main] ERROR demo.web.TestBase -- FAILED: addUserPositiveTesFromDateProviderWithCSVScreenshot: C:\QA-Projects\FirstSeleniumProject\screenshots\screen1694856504.png
+171482 [main] INFO  demo.web.TestBase -- Stop test
+171482 [main] ERROR demo.web.TestBase -- **********************************************
+171489 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV with data: [Registration{name='Claudia-Ute', surname='Unger'}]

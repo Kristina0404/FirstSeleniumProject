@@ -1,0 +1,23 @@
+1502 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+7453 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV with data: [Registration{name='Ute', surname='Unger'}]
+11407 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+11407 [main] INFO  demo.web.TestBase -- Stop test
+11407 [main] ERROR demo.web.TestBase -- **********************************************
+11414 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV with data: [Registration{name='Claudia', surname='Unger'}]
+14949 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+14950 [main] INFO  demo.web.TestBase -- Stop test
+14951 [main] ERROR demo.web.TestBase -- **********************************************
+14959 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV with data: [Registration{name='Claudiaaaaaaaaaaaaa', surname='Unger'}]
+18640 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+18640 [main] INFO  demo.web.TestBase -- Stop test
+18640 [main] ERROR demo.web.TestBase -- **********************************************
+18643 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV with data: [Registration{name='Claudia-Ute', surname='Unger'}]
+22416 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+22416 [main] INFO  demo.web.TestBase -- Stop test
+22417 [main] ERROR demo.web.TestBase -- **********************************************
+22421 [main] INFO  demo.web.TestBase -- Start test addUserPositiveTesFromDateProviderWithCSV with data: [Registration{name='Claudia Ute', surname='Unger'}]
+26117 [main] INFO  demo.web.TestBase -- PASSED: addUserPositiveTesFromDateProviderWithCSV
+26117 [main] INFO  demo.web.TestBase -- Stop test
+26117 [main] ERROR demo.web.TestBase -- **********************************************
